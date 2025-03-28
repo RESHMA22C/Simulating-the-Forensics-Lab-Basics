@@ -92,7 +92,7 @@
 
 ### **Creation of Virtual Hard Disk**
 
-![Screenshot (177)](https://github.com/user-attachments/assets/2585e9a3-494a-4021-a9aa-c2e9060a68be)
+![Screenshot (177)](https://github.com/user-attachments/assets/9c8f6b16-f694-476b-af39-e7f9eef982f3)
 
 
 ---
