@@ -15,7 +15,7 @@
 
 
 ### **Step 2: Install Kali Linux on VirtualBox**
-🔗 **Download Kali Linux VM**: [Click Here]![image](https://github.com/user-attachments/assets/f2b26a88-0059-4033-9b90-438a3f9575e1)
+🔗 **Download Kali Linux VM**: [Click Here]
 
 
 ### **Installation Steps:**
