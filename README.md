@@ -6,7 +6,7 @@
 ## **Implementation Steps :**
 
 ### **Step 1: Install VirtualBox**
-🔗 **Download VirtualBox**: [click here](https://virtualbox.en.softonic.com/)  
+🔗 **Download VirtualBox**: [click here]
 
 ### **Installation Steps:**
 1. Download the **Windows hosts** `.exe` file from the official VirtualBox website.  
@@ -71,7 +71,8 @@
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
+![image](https://github.com/user-attachments/assets/43662f19-7e53-4b82-8f18-38f6be23fe20)
+
 
 ![](./images/kali1.png)
 
